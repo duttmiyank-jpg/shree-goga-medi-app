@@ -17,3 +17,9 @@
 .cxx/
 .kotlin/
 local.properties
+
+*.hprof
+.idea/
+build/
+.gradle/
+local.properties
